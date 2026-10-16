@@ -26,7 +26,8 @@ Decks are grouped by domain, one folder per topic area:
 ├── nursing-informatics/
 ├── interoperability/
 ├── evidence-based-healthcare/
-└── innovation-in-health-systems/
+├── innovation-in-health-systems/
+└── clients/                       ← propostas a clientes; não listadas no index, com noindex
 ```
 
 Each folder holds one `.html` file per deck (`<deck-slug>.html`), fully self-contained.
